@@ -157,7 +157,7 @@ header {
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
-    color: #606060;
+    color: white;
     .header-content {
         position: relative;
         text-align: center;
@@ -169,6 +169,7 @@ header {
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
+                background-color: #404040;
             }
             hr {
                 margin: 30px auto;
