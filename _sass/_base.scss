@@ -168,8 +168,10 @@ header {
                 font-weight: 700;
                 text-transform: uppercase;
                 margin-top: 0;
-                margin-bottom: 0;
-                background-color: #404040;
+                margin-bottom: 0;                
+            }
+            h1 span {
+                background-color: #303030;
             }
             hr {
                 margin: 30px auto;
@@ -179,6 +181,9 @@ header {
                 color: rgba(white, .7);
                 font-size: 16px;
                 margin-bottom: 50px;
+            }
+            p span {
+                background-color: #303030;
             }
         }
     }
