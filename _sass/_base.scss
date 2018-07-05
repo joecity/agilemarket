@@ -118,7 +118,9 @@ aside {
                 color: rgba(White, 0.7);
             }
         }
-        .nav > li > a,
+        .nav > li > a {
+            color: rgba(#303030, 1);
+        }
         .nav > li > a:focus {
             color: rgba(white, 1);
             &:hover {
@@ -183,7 +185,7 @@ header {
                 margin-bottom: 50px;
             }
             p span {
-
+                font-weight: 700;
             }
         }
     }
