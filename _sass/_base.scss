@@ -112,7 +112,7 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(White, 1);
+            color: rgba(#303030, 1);
             &:hover,
             &:focus {
                 color: rgba(White, 0.7);
@@ -157,7 +157,7 @@ header {
     background-position: center;
     background-image: url('../img/header.jpg');
     text-align: center;
-    color: white;
+    color: #303030;
     .header-content {
         position: relative;
         text-align: center;
@@ -178,7 +178,7 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, 1);
+                color: rgba(#303030, 1);
                 font-size: 16px;
                 margin-bottom: 50px;
             }
