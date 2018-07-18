@@ -167,13 +167,13 @@ header {
         width: 100%;
         .header-content-inner {
             h1 {
-                font-weight: 700;
+                font-weight: 400;
                 margin-top: 0;
                 margin-bottom: 0;
-                font-family: Monterstat light;      
+                font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
             }
             h1 span {
-
+    
             }
             hr {
                 margin: 30px auto;
@@ -188,7 +188,8 @@ header {
                 margin-bottom: 80px;
             }
             p span {
-                font-family: Monterstat light;
+                font-weight: 300;
+                font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
             }
         }
     }
