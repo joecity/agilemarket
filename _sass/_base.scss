@@ -168,9 +168,9 @@ header {
         .header-content-inner {
             h1 {
                 font-weight: 700;
-                text-transform: uppercase;
                 margin-top: 0;
-                margin-bottom: 0;                
+                margin-bottom: 0;
+                font-family: Monterstat light;      
             }
             h1 span {
 
@@ -185,10 +185,10 @@ header {
                 font-weight: 300;
                 color: rgba(White, 1);
                 font-size: 16px;
-                margin-bottom: 50px;
+                margin-bottom: 80px;
             }
             p span {
-                font-weight: 700;
+                font-family: Monterstat light;
             }
         }
     }
