@@ -1,0 +1,6 @@
+start command prompt with ruby
+Navigate to home dir
+Command:
+bundle exec jekyll serve
+
+Page: http://127.0.0.1:4000/
